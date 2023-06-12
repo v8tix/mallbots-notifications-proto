@@ -1,0 +1,1 @@
+# mallbots-notifications-proto
